@@ -8,3 +8,5 @@
 
 ## Course taken:
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/f1160ba8e2f72c73b50cafff891ea67e)
+
+- [ডাটা সাইন্স/অ্যানালিটিক্স রোডম্যাপ](https://aiwithr.github.io/ds_roadmap/)
